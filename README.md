@@ -1,6 +1,5 @@
 # Air Quality Data Cleaning – R Assignment 1
 
-**Name:** Diksha
 **Dataset:** Beijing Multi-Site Air Quality Data (UCI ML Repository) — Aotizhongxin station
 
 ## Files
